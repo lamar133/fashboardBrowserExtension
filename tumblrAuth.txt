@@ -1,0 +1,2 @@
+consumerKey = "sDSoFOWrqlu4MUvrBEyu1tBmjS9hxDPlB32u7hj6NRsh6ofOm8"
+secretKey = "rkSXYPx6nIo8jwNUFvbAQhvdEO0QklZftR7T1ZIRWZysGqHqMF"
